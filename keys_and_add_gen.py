@@ -1,5 +1,4 @@
-import bitcoin  # Thư viện 'bitcoin' được import để sử dụng các hàm và công cụ liên quan đến Bitcoin.
-
+import bitcoin  
 # Tạo khóa riêng tư ngẫu nhiên
 valid_private_key = False  # Khởi tạo biến để kiểm tra tính hợp lệ của khóa riêng tư.
 while not valid_private_key:  # Vòng lặp kiểm tra tính hợp lệ của khóa riêng tư.
